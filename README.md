@@ -23,7 +23,7 @@ Below is the video demo showing the functionality of the application:<br />
 ## Installation
 Clone the repository to your local development environment.
 ```
-git clone https://github.com/garychen513/note-taker.git
+git clone https://github.com/GaryChen513/note-taker.git
 ```
 Navigate to the developer-profile-generator folder using the command prompt.
 
