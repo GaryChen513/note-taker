@@ -8,7 +8,7 @@ AThis simple note taking application allows you to save notes with a title and p
 <br/>
 Below is the video demo showing the functionality of the application:<br />
   
-![demo]()
+![demo](./demo/demo.gif)
 
 ## Table of Contents
 
