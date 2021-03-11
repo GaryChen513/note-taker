@@ -4,7 +4,7 @@
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
 
 ## Description 
-AThis simple note taking application allows you to save notes with a title and plain text. Powered by ExpressJS, the Note Taker app makes creating, viewing, and deleting notes. <br />
+This simple note taking application allows you to save notes with a title and plain text. Powered by ExpressJS, the Note Taker app makes creating, viewing, and deleting notes. <br />
 <br/>
 Below is the video demo showing the functionality of the application:<br />
   
